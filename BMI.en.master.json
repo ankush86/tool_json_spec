@@ -1,0 +1,13 @@
+{
+  "language": "EN",
+  "result": {
+    "resultRanges": {
+      "bmi": {
+        "title": "BMI",
+        "shouldShowPoints": true,
+        "pointsFrom": -1.0,
+        "activityLevel": "gray"
+      }
+    }
+  }
+}  
